@@ -1,0 +1,17 @@
+[{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/sony-aath.png",
+		"onClick": "https://live.bongobd.com/hls/cakQn3MfcoMI1iFJgUe4Fw/1622829742/sony_aath.m3u8"
+	},
+	{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/zee-bangla.png",
+		"onClick": "https://live.bongobd.com/hls/cakQn3MfcoMI1iFJgUe4Fw/1622829742/sony_aath_hi/index.m3u8"
+	},
+	{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/s-bangla.png",
+		"onClick": "https://live.bongobd.com/hls/J2T_gc6xveCoPso8Xs6JcQ/1622830058/sangeet_bangla.m3u8"
+	},
+	{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/zee-bangla-cinema.jpg",
+		"onClick": "https://live.bongobd.com/hls/J2T_gc6xveCoPso8Xs6JcQ/1622830058/sangeet_bangla_hi/index.m3u8"
+	}
+]
