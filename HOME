@@ -1,0 +1,26 @@
+[{
+		"icon": "https://images-na.ssl-images-amazon.com/images/I/41p0k6Ej2hL.png",
+		"name": "Sports Channel",
+		"onclick": "Cricket"
+	},
+	{
+		"icon": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
+		"name": "BD All Channel",
+		"onclick": "bangladesh"
+	},
+	{
+		"icon": "https://image.shutterstock.com/image-vector/kolkata-flat-icon-skyline-silhouette-260nw-749314192.jpg",
+		"name": "Kolkata TV Channel",
+		"onclick": "Kolkata"
+	},
+	{
+		"icon": "https://storage.needpix.com/rsynced_images/earth-3087437_1280.png",
+		"name": "International Channel",
+		"onclick": "International"
+	},
+	{
+		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
+		"name": "Pakistan Live TV",
+		"onclick": "Pakistan"
+	}
+]
