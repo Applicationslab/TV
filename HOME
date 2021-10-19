@@ -14,11 +14,6 @@
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/KKR"
 	},
 	{
-		"icon": "https://storage.needpix.com/rsynced_images/earth-3087437_1280.png",
-		"name": "International Channel",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/inter"
-	},
-	{
 		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
 		"name": "Pakistan Live TV",
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
