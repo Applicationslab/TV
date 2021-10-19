@@ -1,0 +1,9 @@
+[{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/aljazeera.jpg",
+		"onClick": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"
+	},
+	{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/dw-news.jpg",
+		"onClick": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8"
+	}
+]
