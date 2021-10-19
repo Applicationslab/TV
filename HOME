@@ -1,26 +1,26 @@
 [{
 		"icon": "https://images-na.ssl-images-amazon.com/images/I/41p0k6Ej2hL.png",
 		"name": "Sports Channel",
-		"onclick": "Cricket"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/cri"
 	},
 	{
 		"icon": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
 		"name": "BD All Channel",
-		"onclick": "bangladesh"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/BD"
 	},
 	{
 		"icon": "https://image.shutterstock.com/image-vector/kolkata-flat-icon-skyline-silhouette-260nw-749314192.jpg",
 		"name": "Kolkata TV Channel",
-		"onclick": "Kolkata"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/KKR"
 	},
 	{
 		"icon": "https://storage.needpix.com/rsynced_images/earth-3087437_1280.png",
 		"name": "International Channel",
-		"onclick": "International"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/inter"
 	},
 	{
 		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
 		"name": "Pakistan Live TV",
-		"onclick": "Pakistan"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
 	}
 ]
