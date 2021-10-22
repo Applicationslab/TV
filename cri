@@ -33,5 +33,12 @@
 		"ytVideo": "",
 		"message": "",
 		"url": "https://stream.crichd.vip/update/tensp.php"
+	},
+	{
+		"channelImage": "http://tv.bdtype.com/uploads/tv_image/sony-six.png",
+		"onClick": "",
+		"ytVideo": "",
+		"message": "",
+		"url": "https://cdn2.crichd.pro/embed2.php?id=willow"
 	}
 ]
