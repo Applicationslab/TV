@@ -1,0 +1,17 @@
+[{
+		"channelImage": "https://stitichsports.com/tv/images/small_picture/small_pic169.jpg",
+		"message": "",
+		"onClick": "",
+		"ytVideo": "",
+		"url": "https://livestream.com/accounts/547271/events/4237509/player?enableInfoAndActivity=true&autoplay=false&mute=false"
+
+	},
+	{
+		"channelImage": "https://stitichsports.com/tv/images/small_picture/small_pic264.jpg",
+
+		"onClick": "",
+		"ytVideo": "https://stitichsports.com/tv/images/small_picture/small_pic169.jpg",
+		"message": "",
+		"url": ""
+	}
+]
