@@ -4,22 +4,17 @@
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/cri"
 	},
 	{
-		"icon": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
+		"icon": "https://cdn-icons-png.flaticon.com/512/188/188864.png",
 		"name": "Football Channel",
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/FOOTBALL"
 	},
 	{
-		"icon": "https://image.shutterstock.com/image-vector/kolkata-flat-icon-skyline-silhouette-260nw-749314192.jpg",
+		"icon": "https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-70-512.png",
 		"name": "News Channel",
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/NEWS"
 	},
 	{
-		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
-		"name": "Entertainment TV",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
-	},
-	{
-		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
+		"icon": "https://icons.iconarchive.com/icons/designbolts/religious-symbol/512/Dua-icon.png",
 		"name": "Religious TV",
 		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/ISLAMIC"
 	}
