@@ -6,12 +6,12 @@
 	{
 		"icon": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
 		"name": "Football Channel",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/BD"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/FOOTBALL"
 	},
 	{
 		"icon": "https://image.shutterstock.com/image-vector/kolkata-flat-icon-skyline-silhouette-260nw-749314192.jpg",
 		"name": "News Channel",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/KKR"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/NEWS"
 	},
 	{
 		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
@@ -21,21 +21,6 @@
 	{
 		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
 		"name": "Religious TV",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
-	},
-	{
-		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
-		"name": "Cooking TV",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
-	},
-	{
-		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
-		"name": "Animal TV",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
-	},
-	{
-		"icon": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
-		"name": "Cartoon TV",
-		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/PK"
+		"onclick": "https://raw.githubusercontent.com/Applicationslab/TV/main/ISLAMIC"
 	}
 ]
