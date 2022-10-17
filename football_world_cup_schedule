@@ -33,8 +33,8 @@
 	{
 		"teamAName": "Argentina",
 		"teamBName": "Saudi Arabia",
-		"date": "Nov 22",
-		"time": "4:00 PM",
+		"date": "Nov 21",
+		"time": "10:00 AM",
 		"matchType": "Group C · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_48x48.png"
 	},
@@ -57,8 +57,8 @@
 	{
 		"teamAName": "France",
 		"teamBName": "Australia",
-		"date": "Nov 23",
-		"time": "1:00 AM",
+		"date": "Nov 22",
+		"time": "07:00 PM",
 		"matchType": "Group D · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png"
 	},
@@ -66,7 +66,7 @@
 		"teamAName": "Morocco",
 		"teamBName": "Croatia",
 		"date": "Nov 23",
-		"time": "4:00 PM",
+		"time": "10:00 AM",
 		"matchType": "Group F · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png"
 	},
@@ -74,7 +74,7 @@
 		"teamAName": "Germany",
 		"teamBName": "Japan",
 		"date": "Nov 23",
-		"time": "1:00 PM",
+		"time": "01:00 PM",
 		"matchType": "Group E · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png"
 	},
@@ -89,8 +89,8 @@
 	{
 		"teamAName": "Belgium",
 		"teamBName": "Canada",
-		"date": "Nov 24",
-		"time": "1:00 AM",
+		"date": "Nov 23",
+		"time": "07:00 PM",
 		"matchType": "Group F · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_48x48.png"
 	},
@@ -98,7 +98,7 @@
 		"teamAName": "Switzerland",
 		"teamBName": "Cameroon",
 		"date": "Nov 24",
-		"time": "4:00 PM",
+		"time": "10:00 AM",
 		"matchType": "Group G · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/fmHyTSbJ-cYbY6WJzvqaZQ_48x48.png"
 	},
@@ -121,8 +121,8 @@
 	{
 		"teamAName": "Brazil",
 		"teamBName": "Serbia",
-		"date": "Nov 25",
-		"time": "1:00 AM",
+		"date": "Nov 24",
+		"time": "07:00 PM",
 		"matchType": "Group G · Matchday 1 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_48x48.png"
 	},
@@ -130,7 +130,7 @@
 		"teamAName": "Wales",
 		"teamBName": "Iran",
 		"date": "Nov 25",
-		"time": "4:00 PM",
+		"time": "10:00 AM",
 		"matchType": "Group B · Matchday 2 of 3",
 		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_48x48.png"
 	},
