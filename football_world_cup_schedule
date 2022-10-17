@@ -1,0 +1,513 @@
+[{
+		"teamAName": "Qatar",
+		"teamBName": "Ecuador",
+		"date": "Nov 20",
+		"time": "10:00 PM",
+		"matchType": "Group A · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_48x48.png"
+	},
+	{
+		"teamAName": "England",
+		"teamBName": "Iran",
+		"date": "Nov 21",
+		"time": "7:00 PM",
+		"matchType": "Group B · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_48x48.png"
+	},
+	{
+		"teamAName": "Senegal",
+		"teamBName": "Netherlands",
+		"date": "Nov 21",
+		"time": "10:00 PM",
+		"matchType": "Group A · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png"
+	},
+	{
+		"teamAName": "USA",
+		"teamBName": "Wales",
+		"date": "Nov 22",
+		"time": "1:00 AM",
+		"matchType": "Group B · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_48x48.png"
+	},
+	{
+		"teamAName": "Argentina",
+		"teamBName": "Saudi Arabia",
+		"date": "Nov 22",
+		"time": "4:00 PM",
+		"matchType": "Group C · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_48x48.png"
+	},
+	{
+		"teamAName": "Denmark",
+		"teamBName": "Tunisia",
+		"date": "Nov 22",
+		"time": "7:00 PM",
+		"matchType": "Group D · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/Xs33c9XVUJBX0IkeFn_bIw_48x48.png"
+	},
+	{
+		"teamAName": "Mexico",
+		"teamBName": "Poland",
+		"date": "Nov 22",
+		"time": "10:00 PM",
+		"matchType": "Group C · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_48x48.png"
+	},
+	{
+		"teamAName": "France",
+		"teamBName": "Australia",
+		"date": "Nov 23",
+		"time": "1:00 AM",
+		"matchType": "Group D · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png"
+	},
+	{
+		"teamAName": "Morocco",
+		"teamBName": "Croatia",
+		"date": "Nov 23",
+		"time": "4:00 PM",
+		"matchType": "Group F · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png"
+	},
+	{
+		"teamAName": "Germany",
+		"teamBName": "Japan",
+		"date": "Nov 23",
+		"time": "7:00 PM",
+		"matchType": "Group E · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png"
+	},
+	{
+		"teamAName": "Spain",
+		"teamBName": "Costa Rica",
+		"date": "Nov 23",
+		"time": "10:00 PM",
+		"matchType": "Group E · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_48x48.png"
+	},
+	{
+		"teamAName": "Belgium",
+		"teamBName": "Canada",
+		"date": "Nov 24",
+		"time": "1:00 AM",
+		"matchType": "Group F · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_48x48.png"
+	},
+	{
+		"teamAName": "Switzerland",
+		"teamBName": "Cameroon",
+		"date": "Nov 24",
+		"time": "4:00 PM",
+		"matchType": "Group G · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/fmHyTSbJ-cYbY6WJzvqaZQ_48x48.png"
+	},
+	{
+		"teamAName": "Uruguay",
+		"teamBName": "South Korea",
+		"date": "Nov 24",
+		"time": "7:00 PM",
+		"matchType": "Group H · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_48x48.png"
+	},
+	{
+		"teamAName": "Portugal",
+		"teamBName": "Ghana",
+		"date": "Nov 24",
+		"time": "10:00 PM",
+		"matchType": "Group H · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/VJQ1emg0TOubjGnap4vWuw_48x48.png"
+	},
+	{
+		"teamAName": "Brazil",
+		"teamBName": "Serbia",
+		"date": "Nov 25",
+		"time": "1:00 AM",
+		"matchType": "Group G · Matchday 1 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_48x48.png"
+	},
+	{
+		"teamAName": "Wales",
+		"teamBName": "Iran",
+		"date": "Nov 25",
+		"time": "4:00 PM",
+		"matchType": "Group B · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_48x48.png"
+	},
+	{
+		"teamAName": "Qatar",
+		"teamBName": "Senegal",
+		"date": "Nov 25",
+		"time": "7:00 PM",
+		"matchType": "Group A · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/zw3ac5sIbH4DS6zP5auOkQ_48x48.png"
+	},
+	{
+		"teamAName": "Netherlands",
+		"teamBName": "Ecuador",
+		"date": "Nov 25",
+		"time": "10:00 PM",
+		"matchType": "Group A · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_48x48.png"
+	},
+	{
+		"teamAName": "England",
+		"teamBName": "USA",
+		"date": "Nov 26",
+		"time": "1:00 AM",
+		"matchType": "Group B · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png"
+	},
+	{
+		"teamAName": "Tunisia",
+		"teamBName": "Australia",
+		"date": "Nov 26",
+		"time": "4:00 PM",
+		"matchType": "Group D · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png"
+	},
+	{
+		"teamAName": "Poland",
+		"teamBName": "Saudi Arabia",
+		"date": "Nov 26",
+		"time": "7:00 PM",
+		"matchType": "Group C · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_48x48.png"
+	},
+	{
+		"teamAName": "France",
+		"teamBName": "Denmark",
+		"date": "Nov 26",
+		"time": "10:00 PM",
+		"matchType": "Group D · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_48x48.png"
+	},
+	{
+		"teamAName": "Argentina",
+		"teamBName": "Mexico",
+		"date": "Nov 27",
+		"time": "1:00 AM",
+		"matchType": "Group C · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png"
+	},
+	{
+		"teamAName": "Japan",
+		"teamBName": "Costa Rica",
+		"date": "Nov 27",
+		"time": "4:00 PM",
+		"matchType": "Group E · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_48x48.png"
+	},
+	{
+		"teamAName": "Belgium",
+		"teamBName": "Morocco",
+		"date": "Nov 27",
+		"time": "7:00 PM",
+		"matchType": "Group F · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png"
+	},
+	{
+		"teamAName": "Croatia",
+		"teamBName": "Canada",
+		"date": "Nov 27",
+		"time": "10:00 PM",
+		"matchType": "Group F · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_48x48.png"
+	},
+	{
+		"teamAName": "Spain",
+		"teamBName": "Germany",
+		"date": "Nov 28",
+		"time": "1:00 AM",
+		"matchType": "Group E · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_48x48.png"
+	},
+	{
+		"teamAName": "Cameroon",
+		"teamBName": "Serbia",
+		"date": "Nov 28",
+		"time": "4:00 PM",
+		"matchType": "Group G · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_48x48.png"
+	},
+	{
+		"teamAName": "South Korea",
+		"teamBName": "Ghana",
+		"date": "Nov 28",
+		"time": "7:00 PM",
+		"matchType": "Group H · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/VJQ1emg0TOubjGnap4vWuw_48x48.png"
+	},
+	{
+		"teamAName": "Brazil",
+		"teamBName": "Switzerland",
+		"date": "Nov 28",
+		"time": "10:00 PM",
+		"matchType": "Group G · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png"
+	},
+	{
+		"teamAName": "Portugal",
+		"teamBName": "Uruguay",
+		"date": "Nov 29",
+		"time": "1:00 AM",
+		"matchType": "Group H · Matchday 2 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png"
+	},
+	{
+		"teamAName": "Ecuador",
+		"teamBName": "Senegal",
+		"date": "Nov 29",
+		"time": "9:00 PM",
+		"matchType": "Group A · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/zw3ac5sIbH4DS6zP5auOkQ_48x48.png"
+	},
+	{
+		"teamAName": "Netherlands",
+		"teamBName": "Qatar",
+		"date": "Nov 29",
+		"time": "9:00 PM",
+		"matchType": "Group A · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_48x48.png"
+	},
+	{
+		"teamAName": "Iran",
+		"teamBName": "USA",
+		"date": "Nov 30",
+		"time": "1:00 AM",
+		"matchType": "Group B · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png"
+	},
+	{
+		"teamAName": "Wales",
+		"teamBName": "England",
+		"date": "Nov 30",
+		"time": "1:00 AM",
+		"matchType": "Group B · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png"
+	},
+	{
+		"teamAName": "Tunisia",
+		"teamBName": "France",
+		"date": "Nov 30",
+		"time": "9:00 PM",
+		"matchType": "Group D · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png"
+	},
+	{
+		"teamAName": "Australia",
+		"teamBName": "Denmark",
+		"date": "Nov 30",
+		"time": "9:00 PM",
+		"matchType": "Group D · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_48x48.png"
+	},
+	{
+		"teamAName": "Poland",
+		"teamBName": "Argentina",
+		"date": "Dec 1",
+		"time": "1:00 AM",
+		"matchType": "Group C · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png"
+	},
+	{
+		"teamAName": "Saudi Arabia",
+		"teamBName": "Mexico",
+		"date": "Dec 1",
+		"time": "1:00 AM",
+		"matchType": "Group C · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png"
+	},
+	{
+		"teamAName": "Croatia",
+		"teamBName": "Belgium",
+		"date": "Dec 1",
+		"time": "9:00 PM",
+		"matchType": "Group F · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_48x48.png"
+	},
+	{
+		"teamAName": "Canada",
+		"teamBName": "Morocco",
+		"date": "Dec 1",
+		"time": "9:00 PM",
+		"matchType": "Group F · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png"
+	},
+	{
+		"teamAName": "Japan",
+		"teamBName": "Spain",
+		"date": "Dec 2",
+		"time": "1:00 AM",
+		"matchType": "Group E · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_48x48.png"
+	},
+	{
+		"teamAName": "Costa Rica",
+		"teamBName": "Germany",
+		"date": "Dec 2",
+		"time": "1:00 AM",
+		"matchType": "Group E · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_48x48.png"
+	},
+	{
+		"teamAName": "South Korea",
+		"teamBName": "Portugal",
+		"date": "Dec 2",
+		"time": "9:00 PM",
+		"matchType": "Group H · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png"
+	},
+	{
+		"teamAName": "Ghana",
+		"teamBName": "Uruguay",
+		"date": "Dec 2",
+		"time": "9:00 PM",
+		"matchType": "Group H · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png"
+	},
+	{
+		"teamAName": "Serbia",
+		"teamBName": "Switzerland",
+		"date": "Dec 3",
+		"time": "1:00 AM",
+		"matchType": "Group G · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png"
+	},
+	{
+		"teamAName": "Cameroon",
+		"teamBName": "Brazil",
+		"date": "Dec 3",
+		"time": "1:00 AM",
+		"matchType": "Group G · Matchday 3 of 3",
+		"url": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 3",
+		"time": "9:00 PM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 4",
+		"time": "1:00 AM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 4",
+		"time": "9:00 PM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 5",
+		"time": "1:00 AM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 5",
+		"time": "9:00 PM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 6",
+		"time": "1:00 AM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 6",
+		"time": "9:00 PM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 7",
+		"time": "1:00 AM",
+		"matchType": "Round of 16",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 9",
+		"time": "9:00 PM",
+		"matchType": "Quarter-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 10",
+		"time": "1:00 AM",
+		"matchType": "Quarter-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 10",
+		"time": "9:00 PM",
+		"matchType": "Quarter-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 11",
+		"time": "1:00 AM",
+		"matchType": "Quarter-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 14",
+		"time": "1:00 AM",
+		"matchType": "Semi-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 15",
+		"time": "1:00 AM",
+		"matchType": "Semi-finals",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 17",
+		"time": "9:00 PM",
+		"matchType": "Third place play-off",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	},
+	{
+		"teamAName": "TBD",
+		"teamBName": "TBD",
+		"date": "Dec 18",
+		"time": "9:00 PM",
+		"matchType": "Final",
+		"url": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+	}
+]
